@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-logging-test
+
+mr-box:
+  api-logging:
+    triggers: exception, header, statusCode
